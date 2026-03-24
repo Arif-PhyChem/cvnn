@@ -1,7 +1,10 @@
-# Code and data for our recent work Toward quantum-aware machine learning: Improved prediction of quantum dissipative dynamics via complex valued neural networks
+# Code and data for our recent work 
+
+## "Toward quantum-aware machine learning: Improved prediction of quantum dissipative dynamics via complex valued neural networks"
+
 Published: J. Chem. Phys. 164, 094104 (2026) https://doi.org/10.1063/5.0321432 arXiv: https://doi.org/10.48550/arXiv.2601.03964 
 
-This repository compares **Complex-Valued Neural Networks (CVNN)** and **Real-Valued Neural Networks (RVNN)** performance across multiple quantum systems.
+This repository compares **Complex-Valued Neural Networks (CVNN)** and **Real-Valued Neural Networks (RVNN)** performance across multiple open quantum systems.
 
 ## 📂 Repository Structure
 
